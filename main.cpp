@@ -7,7 +7,7 @@ int add(int a, int b)
 
 int main()
 {
-    std::cout << "Calculator App" << std::endl;
+    std::cout << "Calculatour App" << std::endl;
     std::cout << "2 + 3 = " << add(2, 3) << std::endl;
 
     return 0;
